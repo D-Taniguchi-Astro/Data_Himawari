@@ -1,5 +1,5 @@
 # Data_Himawari
-- This repository contains the photometric data/figures regarding the Himawari-8's photometry (Taniguchi+22). 
+This repository contains the photometric data/figures regarding the Himawari-8's photometry (Taniguchi+22). 
 - Daisuke Taniguchi, Kazuya Yamazaki, and Shinsuke Uno (2022)
 - Nature Astronomy, volume, page.
 - _The Great Dimming of Betelgeuse seen by the Himawari-8 meteorological satellite_
